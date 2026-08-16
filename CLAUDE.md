@@ -8,7 +8,8 @@ repo; each subfolder's own `CLAUDE.md` takes precedence for files inside it.
 - **Client:** Contemporary Dental Clinic (dental / health & wellness vertical)
 - **Owner:** Mohammed Khan (CEO, Rumiq)
 - **Goal:** full digital presence build — website, brand identity, social
-  media content, and YouTube content
+  media content, YouTube content, data analytics, email marketing/newsletter,
+  WhatsApp automation, and Dr. Sheryar Khan's LinkedIn profile management
 - **Rumiq service lines:** website and app development · AI-enabled social
   media marketing (multi-modal) · SEO/AEO · brand/creative
 
